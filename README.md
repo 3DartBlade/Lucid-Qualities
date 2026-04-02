@@ -15,3 +15,38 @@ A few Quality of Life changes to Lucid Blocks
 ## Planned
 - Making it so the output is only clear if it was already crafted with the same blocks
 - Adding a menu that allows you to quickly fuse items you already Apotheosised
+- Guaranteed compatibility with InventoryManagment+
+
+# Neuromuser's InventoryManagment+
+For further QOL changes, check out Neuromuser's "InventoryManagment+"! Posted here with their permission:
+
+- - - - - - - - - - - - - - - - -
+
+## VERSION 1.0
+
+Mod that improves inventory management!
+
+Middle mouse button - sort container
+Ctrl+ Middle mouse button - autostack
+Can move item stacks by dragging
+Mouse wheel up/down - move only 1 item.
+
+Quick video demonstration of the action. Enjoy!
+[to do: add video] 
+
+For version v2.8.7
+
+*[Click](https://discord.com/channels/1335347351664988200/1487073898997612634/1489160367203549266) to go for the latest version. Note that all future versions will be dependent on [QualiaMods framework](https://discord.com/channels/1335347351664988200/1482863662183219291). *
+
+# VERSION 1.1
+
+**CHANGES:**
+- From now mod uses the QualiaMods Framework. It won't work without it, so be sure to install it.
+ - Fixed a bug that allowed to sort creative inventory and autostack items to it.
+- New hotkeys: by default "F" - hotkey to press apotheosis button; "QuoteLeft" (tilde key) - hotkey to trash hovered item.
+
+Hotkeys can be changed in the mod`s settings menu, but this will require a game restart. If you want to change the hotkey from "QuoteLeft" to "Delete," simply type "Delete" in the settings field, click "Save config" and restart the game.
+[todo: add image] 
+
+## VERSION 1.1.1
+- fixed a bug - sort doesnt work in player inventory 
