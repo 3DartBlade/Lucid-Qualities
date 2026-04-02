@@ -38,7 +38,7 @@ For version v2.8.7
 
 *[Click](https://discord.com/channels/1335347351664988200/1487073898997612634/1489160367203549266) to go for the latest version. Note that all future versions will be dependent on [QualiaMods framework](https://discord.com/channels/1335347351664988200/1482863662183219291). *
 
-# VERSION 1.1
+## VERSION 1.1
 
 **CHANGES:**
 - From now mod uses the QualiaMods Framework. It won't work without it, so be sure to install it.
